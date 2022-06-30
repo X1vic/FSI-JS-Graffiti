@@ -11,6 +11,6 @@ for(let i = 0; i < dogNames.length; i++){
 	dogNames[i].style.textAlign = "left"
 }
 
-let darkFooter = document.querySelector('.footer')
-darkFooter.style.color = "purple"
+let footer = document.querySelector('.footer')
+footer.style.color = "purple"
 
